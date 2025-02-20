@@ -2,7 +2,7 @@
 
 
 This repository contains the code we wrote during the Scala 3 inlines demo on Rock the JVM.
-- [video](https://youtu.be/8TMvIIoaAPs)
+- (video coming soon)
 - (blog post coming soon)
 
 ### Installation
